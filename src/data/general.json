@@ -1,0 +1,61 @@
+{
+    "socials":{
+        "facebook":"https://www.facebook.com/p/Mirsa-Gabriela-Rodas-Nutrici%C3%B3n-100063767644555",
+        "whatsapp":"https://wa.me/50254661866",
+        "instagram":"https://www.instagram.com/mirsagr_nutricion"
+    },
+    "headers":{
+        "menu":[
+            {"id":"about","name": "Sobre mí"},
+            {"id":"expertise","name": "Experiencia"},
+            {"id":"services","name": "Servicios"},
+            {"id":"contact","name": "Contáctame"}
+        ]
+    },
+    "about":{
+        "name":"Mirsa Rodas",
+        "details":"Una nutricionista graduada de la Universidad Rafael Landívar, certificada en ISAK I, y cuento con un Máster en Nutrición, Actividad Física y Deportiva por la Universidad Europea del Atlántico. He tenido la oportunidad de trabajar con diversos atletas en sus metas de pérdida de peso y aumento de masa muscular, además de desarrollar planes alimenticios para pacientes con diabetes, sobrepeso y desnutrición dentro de las clínicas de salud del Hospital Roosevelt de Guatemala. Por otro lado, he trabajado en el área industrial de control de calidad alimenticio con el fin de objetivo de cumplir todos los estándares establecido en la industria de alimentos.",
+        "consultation": "Realizar una cita",
+        "services": "Consultar mis servicios"
+    },
+    "contact":{
+        "title":"Contáctame",
+        "legend":"¿Está listo para comenzar su viaje hacia una mejor salud? Comuníquese para programar una consulta o hacer cualquier pregunta que pueda tener.",
+        "form":{
+            "name":"Ingresa tu nombre",
+            "message": "Escribe tu consulta...",
+            "button": "Enviar mensaje",
+            "location": "Ciudad de Guatemala",
+            "phone": "54661866",
+            "schedule": "Lunes a viernes: 1pm a 4pm"
+        }
+    },
+    "services":[
+        {"title":"Consulta inicial", "description":"Una sesión completa de 60 minutos para evaluar sus necesidades nutricionales y objetivos de salud.", "price":"Q0.00"},
+        {"title":"Plan de alimentación personalizado", "description":"Un plan de comidas semanal detallado adaptado a sus preferencias y necesidades nutricionales.", "price":"Q0.00"},
+        {"title":"Sesiones de seguimiento", "description":"Registros de 30 minutos para seguir el progreso y realizar los ajustes necesarios a su plan.", "price":"Q0.00"}
+    ],
+    "expertise":{
+        "title":"Mi experiencia",
+        "personalizedMeal":{
+            "title":"Planes nutricionales",
+            "description":"Planes personalizados creados para cumplir con sus objetivos de salud y necesidades dietéticas, con porciones ajustadas a sus tiempos y gustos de comidas."
+        },
+        "education":{
+            "title":"Educación nutricional",
+            "description":"Le proporcionaré conocimientos para que pueda tomar decisiones alimentarias y cumplir sus objetivos establecidos por medio de recetarios, rutinas deportivas y recomendaciones alimentarias."
+        },
+        "sport":{
+            "title":"Deporte",
+            "description":"Desarrollo y acompañamiento de tu rutina deportiva para mejorar tu rendimiento y satisfacer todas tus necesidades energéticas. Esto incluye diversas programaciones de ejercicios y estiramientos, así como recomendaciones sobre suplementos alimenticios."
+        },
+        "metrics":{
+            "title":"Análisis",
+            "description":"Medición constante de su composición corporal con la finalidad da tener ganancia muscular, reducir lesiones, aumentar sus niveles de hidratación  y tener una vida saludable."
+        },
+        "engineer":{
+            "title":"Ingeniería",
+            "description":"Análisis sobre la composición y beneficios nutricionales de cada producto en el mercado, adaptandolo siempre al presupuesto del cliente."
+        }
+    }
+}
